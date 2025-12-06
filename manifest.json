@@ -1,0 +1,11 @@
+{
+    "name": "PeakTintedGlasses",
+    "version_number": "2.3.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Dissatisfied with the base game glasses options in PEAK? Well, fear not! PeakTintedGlasses is here with a colorful selection of uniquely shaped glasses to help spice up your outfits!",
+    "dependencies": [
+	"BepInEx-BepInExPack_PEAK-5.4.2403",
+        "Radsi2-PassporPagination-1.0.1",
+	"cretapark-More_Customizations-1.1.7"
+    ]
+}
