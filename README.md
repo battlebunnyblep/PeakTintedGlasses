@@ -2,5 +2,6 @@ Dissatisfied with the base game glasses options in PEAK? Well, fear not! PeakTin
 
 
 
-!\[Glasses Preview](glasses\_chart.png)
+![Glasses Preview](glasses_chart.png)
+
 
